@@ -9,4 +9,10 @@ console.log('hello')
 
 console.log(moment().format('MMMM Do YYYY, h:mm:ss a'));
 
-console.log(sqrt(-4).toString()) // 2i
+console.log(sqrt(-81).toString()) // 2i
+
+var name = "Jim", time = "today";
+console.log(`Hello ${name}, how are you ${time}?`);
+
+console.log(`this is all a string`)
+
